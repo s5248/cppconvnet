@@ -1,3 +1,7 @@
+/*
+Copyright (C) 2015 BiaoZhi Huang.
+All rights reserved.
+*/
 #if 1
 #include<fstream>
 #include<iostream>

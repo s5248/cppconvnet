@@ -1,3 +1,7 @@
+/*
+Copyright (C) 2015 BiaoZhi Huang.
+All rights reserved.
+*/
 #ifndef	CactusIntf_HPP_
 #define CactusIntf_HPP_
 

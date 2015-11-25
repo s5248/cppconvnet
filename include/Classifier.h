@@ -1,3 +1,7 @@
+/*
+Copyright (C) 2015 BiaoZhi Huang.
+All rights reserved.
+*/
 #pragma once
 #include<iostream>
 #include"defines.h"

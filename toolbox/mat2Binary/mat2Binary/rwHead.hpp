@@ -1,3 +1,7 @@
+/*
+Copyright (C) 2015 BiaoZhi Huang.
+All rights reserved.
+*/
 #include<fstream>
 #include<iostream>
 #include<mex.h>

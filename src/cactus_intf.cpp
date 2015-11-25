@@ -1,3 +1,7 @@
+/*
+Copyright (C) 2015 BiaoZhi Huang.
+All rights reserved.
+*/
 #include"cactus_intf.hpp"
 
 int CactusIntf::init(const string& param){

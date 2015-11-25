@@ -1,3 +1,11 @@
+/*
+Copyright (C) 2015 BiaoZhi Huang.
+
+All rights reserved.
+
+Some of this  file is part of the VLFeat library and is made available under
+the terms of the BSD license (see the COPYING file).
+*/
 #include "Classifier.h"
 
 

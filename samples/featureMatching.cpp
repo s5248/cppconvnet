@@ -1,3 +1,7 @@
+/*
+Copyright (C) 2015 BiaoZhi Huang.
+All rights reserved.
+*/
 #include"cactus_intf.hpp"
 #include<iostream>
 #include<opencv2/opencv.hpp>
