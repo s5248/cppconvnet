@@ -23,7 +23,7 @@ public:
 
 	/**
 	* less value, higher rank
-	* @return match value,range is [0,1e6]not [0,1], considered precision.
+	* @return match value,range is [0,1e6]not [0,1], considering precision.
 	*/
 	float match(const int* feat_buf1, const int* feat_buf2, long buf_size);
 
