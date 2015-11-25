@@ -32,9 +32,10 @@ classification of many images once a time and their confidence level.
 support for vgg-f model and so like and little modifications to support other model.
 
 ### In Planning:
-training process.  
-various classification method such as SVM,ANN_MLP.
-documentation for details.  
+add training process.  
+add support for GPU
+add various classification method such as SVM,ANN_MLP.
+add documentation for details.  
 
 ### Documentation:
 A guide book of cppconvnet:  
