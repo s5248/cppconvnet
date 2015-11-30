@@ -1,5 +1,5 @@
 #cppconvnet
-#CNNs in C++
+#Convolutional Neural Networks in C++,vgg-f
 
 cppconvnet is a light convolution neural netwrok system depending on the least but performing greate. It's written by C++ and it has high performance in image field,and the original system is the [matconvnet](https://github.com/vlfeat/matconvnet/). cppconvnet is designed for anyone who uses C++ language to study deep learning or something like it. So far,It has supported the basic features ,such as, convolution,relu activation function,max pooling,noramlization,and softmax classification function.  
 
